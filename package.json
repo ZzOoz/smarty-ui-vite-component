@@ -1,5 +1,6 @@
 {
   "name": "smarty-ui-vite",
+  "homepage": "https://smarty-ui-vite-component.vercel.app/",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
