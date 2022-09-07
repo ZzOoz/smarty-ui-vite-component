@@ -1,7 +1,7 @@
 import { App } from "vue";
 import MyButton from "./Sbutton";
 import SFCButton from "./SFCbutton.vue";
-import JSXButton from "./JSXButton";
+import JSXButton from "./JSXbutton";
 // import SButton from "./Button/Button.vue";  /// 引入引入SButtton的SFC文件类型 需配置vite.config.js
 import SButton from "./Button/index"; /// 引入SButtton的tsx文件类型 需配置vite.config.js
 
